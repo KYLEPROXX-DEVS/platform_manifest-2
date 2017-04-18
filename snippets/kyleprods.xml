@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project path="hardware/samsung" name="SlimRoms/hardware_samsung" remote="github" revision="ng7.1" />
   <project path="packages/apps/CMParts" name="LineageOS/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
   <project path="device/samsung/kyleprods" name="KYLEPROXX-DEVS/android_device_samsung_kyleprods" remote="github" revision="slim-7.1" />
   <project path="kernel/samsung/kyleproxx" name="ishantvivek/android_kernel_samsung_kyleproxx" remote="github" revision="cm-14.1" />
